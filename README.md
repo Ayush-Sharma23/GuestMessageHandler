@@ -1,4 +1,4 @@
-# Nistula Guest Message Handler
+# Hospitality Guest Message Handler
 
 An asynchronous backend system designed to handle guest message processing, normalization, classification, and response drafting across multiple communication platforms, such as WhatsApp, Airbnb, Booking.com, Instagram, and Nistula's website.
 
